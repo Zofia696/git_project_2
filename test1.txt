@@ -1,1 +1,1 @@
-reril;kli jffh k
+print('hello world')
